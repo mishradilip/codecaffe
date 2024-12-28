@@ -10,6 +10,10 @@ In this tutorial, you'll discover how to build an engaging and interactive eye-t
 - Responsive design
 - Easy to understand and extend
 
+### Demo
+
+Check out the live demo [here](https://mishradilip.github.io/codecaffe/eyes-follow-mouse-cursor/).
+
 ### Installation
 
 1. Clone the repository:
