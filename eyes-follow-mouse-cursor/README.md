@@ -12,7 +12,7 @@ In this tutorial, you'll discover how to build an engaging and interactive eye-t
 
 ### Demo
 
-Check out the live demo [here](https://mishradilip.github.io/codecaffe/eyes-follow-mouse-cursor/).
+Check out the live demo <a href="https://mishradilip.github.io/codecaffe/eyes-follow-mouse-cursor/" target="_blank">here</a>.
 
 ### Installation
 
